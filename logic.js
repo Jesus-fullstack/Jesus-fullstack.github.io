@@ -17,7 +17,7 @@ amarillo.classList.remove("amarillo")
 
 let invisible = document.createElement("img")
 titulo.innerHTML ="Calculador geckoniana (Solo suma)";
-invisible.setAttribute("src","images\\favicon_gecko_-removebg-preview.png")
+invisible.setAttribute("src","imagenes\\gecko con fondo azul.png")
 invisible.setAttribute("height","100px")
 amarillo.innerHTML = "";
 amarillo.append(invisible)
